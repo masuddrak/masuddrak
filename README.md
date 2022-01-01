@@ -11,7 +11,8 @@ Hi there, I'm Masud Rana.
  I'm a hardworking and passionate person who loves to create beautiful websites. My technologies include HTML,CSS,SASS,Bootstrap, JavaScript,jQuery,React.
 
 
-Skills:  / REACT /BOOTSTRAP/ JS / HTML / CSS
+Skills:  
+ <li>HTML</li>
 
 - 🔭 I’m currently working on upwork 
 - 🌱 I’m currently learning JavaScript 

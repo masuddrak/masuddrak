@@ -7,7 +7,7 @@
 
 </br>
 Hi there, I'm Masud Rana.
-I'm a hardworking and passionate person who loves to create beautiful websites. My technologies include HTML,CSS,SASS,Bootstrap, JavaScript,jQuery,React.
+I'm a hardworking and passionate person who loves to create beautiful websites. My technologies include HTML,CSS,SASS,Bootstrap, JavaScript,React.
 </br>
 
 <h2>Skills:</h2> 

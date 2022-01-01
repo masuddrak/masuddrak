@@ -13,6 +13,10 @@ Hi there, I'm Masud Rana.
 
 Skills:  
  <li>HTML</li>
+ <li>HTML</li>
+ 
+ 
+ <hr/>
 
 - 🔭 I’m currently working on upwork 
 - 🌱 I’m currently learning JavaScript 

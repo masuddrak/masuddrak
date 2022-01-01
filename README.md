@@ -5,11 +5,10 @@
 <h1>Hi there 👋, my name is MD.Masud Rana</h1>
 <h3> Web Developer </h3>
 
-
+</br>
 Hi there, I'm Masud Rana.
-
- I'm a hardworking and passionate person who loves to create beautiful websites. My technologies include HTML,CSS,SASS,Bootstrap, JavaScript,jQuery,React.
-
+I'm a hardworking and passionate person who loves to create beautiful websites. My technologies include HTML,CSS,SASS,Bootstrap, JavaScript,jQuery,React.
+</br>
 
 <h2>Skills:</h2> 
  <li>✔ HTML</li>
@@ -17,14 +16,14 @@ Hi there, I'm Masud Rana.
   <li>✔ bootstrap</li>
    <li>✔ javascript</li>
     <li>✔ react</li>
- 
+ </br>
 
 
 - 🔭 I’m currently working on upwork 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with web development  
 - 💬 Ask me about web Develop/Design  
-
+</br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masuddrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mr864651)  
 

@@ -16,7 +16,7 @@ I'm a hardworking and passionate person who loves to create beautiful websites. 
   <li>✔ bootstrap</li>
    <li>✔ javascript</li>
     <li>✔ react.js</li>
-    <li>node.js</li>
+    <li>✔ node.js</li>
  </br>
 
 

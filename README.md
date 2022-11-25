@@ -26,7 +26,7 @@ I'm a hardworking and passionate person who loves to create beautiful websites. 
 - 💬 Ask me about web Develop/Design  
 </br>
 
-[<img style="color:blue; src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masuddrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mr864651)  
+[<img style="color:blue" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masuddrak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mr864651)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masuddrak)](https://github.com/anuraghazra/github-readme-stats)
 

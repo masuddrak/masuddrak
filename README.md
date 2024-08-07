@@ -24,7 +24,7 @@ I'm a hardworking and passionate person who loves to create beautiful websites. 
  </br>
 
 
-- 🔭 I’m currently working on upwork 
+
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with web development  
 - 💬 Ask me about web Develop/Design  
